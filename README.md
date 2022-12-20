@@ -4,7 +4,7 @@ I like to work with challenging projects, those which feels like solving a puzzl
 I am looking to expand my knowledge in the technologies that I have already used. And I want to learn new technologies and thus add them to my list of tools to solve problems.
 </p>
 <h2 align="center">Currently Working On..</h2>
-<p align="center">Currently working on Katalogy (based on <a href="https://github.com/nacermanuel/Catalog-Quoter" target="_blank" rel="noreferrer">Catalog-Quoter</a>). A tool build for micro-business (sellers who regularly only use Instagram, Facebook, WhatsApp) that help them to show and quote their products.</p>
+<p align="center">Currently working on <a href="https://github.com/nacermanuel/Katalogy" target="_blank" rel="noreferrer">Katalogy</a>. A tool build for micro-business (sellers who regularly only use Instagram, Facebook, WhatsApp) that help them to show and quote their products.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
