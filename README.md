@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel Nácer</h1>
 <p align="center">I'm an enthusiastic and detail-oriented Full Stack Web Developer living in LATAM (español mi idioma natal).  
 I like to work with challenging projects, those which feels like solving a puzzle + playing chess. 
-I am looking to expand my knowledge in the technologies that I have already used. And I want to learn new technologies and thus add them to my list of tools to solve problems.
+I am looking to expand my knowledge in the technologies that I have already used.  I want to learn new technologies and thus add them to the toolbox I use when I'm solving problems.
 </p>
 <h2 align="center">Currently Working On..</h2>
 <p align="center">Currently working on <a href="https://github.com/nacermanuel/Katalogy" target="_blank" rel="noreferrer">Katalogy</a>. A tool build for micro-business (sellers who regularly only use Instagram, Facebook, WhatsApp) that help them to show and quote their products.</p>
