@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel Nácer</h1>
-<p align="center">I'm an enthusiastic and detail-oriented Full Stack Web Developer living in LATAM (Español mi idioma natal).  
+<p align="center">I'm an enthusiastic and detail-oriented Full Stack Web Developer living in LATAM (español mi idioma natal).  
 I like to work with challenging projects, those which feels like solving a puzzle + playing chess. 
 I am looking to expand my knowledge in the technologies that I have already used. And I want to learn new technologies and thus add them to my list of tools to solve problems.
 </p>
