@@ -14,7 +14,7 @@ I am looking to expand my knowledge in the technologies that I have already used
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-| JavaScript |-- React --|-- Redux --|-- HTML5 --|-- CSS --| -- NodeJS --|-- express --|--MySQL--|-- Firebase --|
+|-- JavaScript --|-- React --|-- Redux --|-- HTML5 --|-- CSS --| -- NodeJS --|-- express --|-- MySQL --|-- Firebase --|
 <br><br>
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a>  
