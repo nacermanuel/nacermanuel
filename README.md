@@ -3,6 +3,8 @@
 I like to work with challenging projects, those which feels like solving a puzzle + playing chess. 
 I am looking to expand my knowledge in the technologies that I have already used and learn new technologies. I have extensive prior business experience.
 </p>
+
+<h2 align="center">Lastest Project</h2>
 <p align="center">I recently built a React Web App for my business. It's hosted in Firebase. The app let customers to choose the products they want and send the full order to WhatsApp Business for us to process and ship the order. You can see it here: <a href="https://anfisa-catalogo.web.app/" target="blank">https://anfisa-catalogo.web.app/</a> </p>
 <h2 align="center">Currently Working On..</h2>
 <p align="center">Currently working on <a href="https://github.com/nacermanuel/Katalogy" target="_blank" rel="noreferrer">Katalogy</a>. A tool build for micro-business (sellers who regularly only use Instagram, Facebook, WhatsApp) that help them to show and quote their products.</p>
