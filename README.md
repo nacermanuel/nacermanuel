@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manuel Nácer</h1>
 <p align="center">
-  Hello, I'm Manuel, a full-stack web developer. I've acquired my skills through a rigorous bootcamp called SoyHenry and extensive self-study, but my true expertise has come from building my own projects. My passion lies in leveraging technology as a problem solver, and my goal is to work within a company that shares this vision.
+  Hello, I'm Manuel, a full-stack web developer. I've acquired my skills through a rigorous bootcamp called SoyHenry and extensive self-study, but my true expertise has come from building my own projects. My passion lies in leveraging technology as a problem solver, and my goal is to be part of prject that shares this vision.
 
 </p>
 
