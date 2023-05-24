@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel Nácer</h1>
-<p align="center">I'm an enthusiastic and detail-oriented Full Stack Web Developer living in LATAM (español mi idioma natal).  
-I like to work with challenging projects, those which feels like solving a puzzle + playing chess. 
-I am looking to expand my knowledge in the technologies that I have already used and learn new technologies. I have extensive prior business experience.
+<p align="center">
+  Hello, I'm Manuel, a full-stack web developer. I've acquired my skills through a rigorous bootcamp called SoyHenry and extensive self-study, but my true expertise has come from building my own projects. My passion lies in leveraging technology as a problem solver, and my goal is to work within a company that shares this vision.
+
 </p>
 
 <h2 align="center">Lastest Project</h2>
