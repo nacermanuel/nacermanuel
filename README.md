@@ -14,7 +14,7 @@ NodeJS, ReactJS, Redux, NextJS, ExpressJS <br>
 Rest API, MongoDB, Mongoose, PostegreSQL, Sequelize <br>
 Git, Git Flow, Railway, Vercel, Firebase, Clean Architecture.
   </p>
-<br><br>
+<br>
 
 <h3 align="center">Take a look to my portafolio:</h3>
 <a href="https://manuel-nacer.web.app/" target="_blank" rel="noreferrer"><p align="center">https://manuel-nacer.web.app/ </p></a> 
