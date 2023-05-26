@@ -12,7 +12,7 @@
 TypeScript, JavaScript, HTML, CSS, Tailwind CSS <br>
 NodeJS, ReactJS, Redux, NextJS, ExpressJS <br>
 Rest API, MongoDB, Mongoose, PostegreSQL, Sequelize <br>
-Git, Git Flow, Railway, Vercel, Firebase, Clean Architecture.
+Git, Git Flow, Railway, Vercel, Firebase, Clean Architecture .
   </p>
 <br>
 
